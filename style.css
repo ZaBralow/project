@@ -34,15 +34,15 @@ hr {
 }
 
 .strategy {
-	width: 128px;
+	width: 108px;
 	height: 128px;
     float: left;
-    margin-top: -4px;
     margin-left: 200px;
 }
 
 .undericon {
     font-size: 20px;
+    font-weight: bold;
 }
 
 .img {
@@ -50,7 +50,7 @@ hr {
 }
 
 .user {
-	width: 180px;
+	width: 200px;
 	height: 128px;
     float: left;
     margin-left: 200px;
@@ -78,7 +78,7 @@ hr {
 	height: 128px;
 	float: left;
 	margin-left: 200px;
-	margin-top: -4px;
+	
 }
 
 .img4 {
@@ -90,17 +90,44 @@ hr {
 	height: 128px;
 	float: left;
 	margin-left: 200px;
-	margin-top: -4px;
+	
 }
 
 .img5 {
 	padding-left: 30px;
 }
 
-.alpha {
-	width: 1920px;
-	height: 128px;
+.underunder {
+	text-align: center;
+	width: 150px;
+	margin-left: -23px
+
 }
 
+.underunder2 {
+	text-align: center;
+	width: 150px;
+	margin-left: 20px
+
+}
+
+.underunder3 {
+	text-align: center;
+	width: 150px;
+	margin-left: -36px
+
+}
+
+.underunder4 {
+	text-align: center;
+	width: 150px;
+	margin-left: 3px
+}
+
+.underunder5 {
+	text-align: center;
+	width: 150px;
+	margin-left: -13px
+}
 
 
