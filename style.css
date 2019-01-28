@@ -12,122 +12,67 @@ hr {
 	width: 100px;
 }
 
-.text {
-	text-align: center;
-	font-size: 20px;
-	font-weight: 400;
-}
 
 .txt {
 	height: 500px;
 	width: 800px;
 	margin-left: 540px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 400;
 }
 
 .square {
 	width: 50px;
 	height: 50px;
 	background-color: blue;
-	margin-left: 930px;
 	margin-top: -300px;
+	margin-left: 920px;
 	transform: rotate(45deg);
 }
 
-.strategy {
-	width: 108px;
-	height: 128px;
-    float: left;
-    margin-left: 200px;
+.cart {
+	width: 1920px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
 }
 
-.undericon {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.img {
-	padding-left: 20px;
-}
-
-.user {
+.cart div {
 	width: 200px;
-	height: 128px;
-    float: left;
-    margin-left: 200px;
-
+    margin: 5px;
+    margin-left: 110px;
+    text-align: center;
 }
 
-.img2 {
-	padding-left: 50px;
+.spoiler-head {
+	font-weight: bold;
+	cursor: pointer;
 }
 
-.design {
-	width: 128px;
-	height: 128px;
-	float: left;
-	margin-left: 210px;
-	
+.polovina {
+	width: 1920px;
+	height: 600px;
+	margin-left: -8px;
+}  
+
+.pal {
+	margin-left: -4px;
 }
 
-.img3 {
-	padding-left: 10px;
-}
-
-.development {
-	width: 128px;
-	height: 128px;
-	float: left;
-	margin-left: 200px;
-	
-}
-
-.img4 {
-	padding-left: 40px;
-}
-
-.marketing {
-	width: 128px;
-	height: 128px;
-	float: left;
-	margin-left: 200px;
-	
-}
-
-.img5 {
-	padding-left: 30px;
-}
-
-.underunder {
+.ashki {
 	text-align: center;
-	width: 150px;
-	margin-left: -23px
-
+	color: white;
+	margin-top: -400px;
 }
 
-.underunder2 {
-	text-align: center;
-	width: 150px;
-	margin-left: 20px
-
+.button {
+	background-color: red;
+	border-color: red;
+	width: 250px;
+	height: 60px;
+	color: white;
+	font-size: 20px;
+	cursor: pointer;
 }
-
-.underunder3 {
-	text-align: center;
-	width: 150px;
-	margin-left: -36px
-
-}
-
-.underunder4 {
-	text-align: center;
-	width: 150px;
-	margin-left: 3px
-}
-
-.underunder5 {
-	text-align: center;
-	width: 150px;
-	margin-left: -13px
-}
-
-
