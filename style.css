@@ -1,5 +1,6 @@
 body {
-	
+	overflow: hidden;
+	overflow: scroll;
 }
 
 
@@ -86,6 +87,24 @@ hr {
 	font-size: 20px;
 	cursor: pointer;
 }
+
+.blog {
+	width: 1920px;
+	height: 600px;
+	margin: auto;
+}
+
+.primer {
+	width: 40%;
+	height: 600px;
+	
+}
+
+.mizdes {
+	width: 45%;
+	height: 600px;
+}
+
 
 /*@media screen and (max-width: 800px) {
 .polovina {
