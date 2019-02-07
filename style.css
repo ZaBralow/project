@@ -89,21 +89,66 @@ hr {
 }
 
 .blog {
-	width: 1920px;
+	width: 945px;
 	height: 600px;
+	float: right;
+	margin-top: -1200px;
 	margin: auto;
+	position: relative;
+	text-align: center;
 }
 
-.primer {
-	width: 40%;
-	height: 600px;
-	
-}
 
 .mizdes {
-	width: 45%;
+	width: 940px;
 	height: 600px;
+    float: left;
+    margin: auto;
+    position: relative;
+    text-align: center;
 }
+
+.button1 {
+	background-color: red;
+	border-color: red;
+	width: 250px;
+	height: 60px;
+	color: white;
+	font-size: 20px;
+	cursor: pointer;
+	/*margin-top: -500px;*/
+}
+
+
+.button2 {
+	background-color: red;
+	border-color: red;
+	width: 250px;
+	height: 60px;
+	color: white;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.top {
+	margin-top: 100px;
+	position: relative;
+}
+
+.top1 {
+	margin-top: -100px;
+	position: relative;
+}
+
+.ashki2 {
+	text-align: center;
+	color: white;
+	position: relative;
+	margin-top: -500px;
+	height: 300px;
+}
+
+
 
 
 /*@media screen and (max-width: 800px) {
