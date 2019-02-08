@@ -1,6 +1,7 @@
 body {
 	overflow: hidden;
 	overflow: scroll;
+	height: 100%;
 }
 
 
@@ -62,14 +63,14 @@ hr {
 
 .polovina {
 	width: 1920px;
-	height: 600px;
+	height: 450px;
 	margin: auto;
 	/*margin-left: -8px;*/
 }  
 
 .pal {
 	/*margin: auto;*/
-	margin-left: -4px;
+	margin-left: -8px;
 }
 
 .ashki {
@@ -89,23 +90,24 @@ hr {
 }
 
 .blog {
-	width: 945px;
+	width: 940px;
 	height: 600px;
 	float: right;
-	margin-top: -1200px;
 	margin: auto;
 	position: relative;
 	text-align: center;
+	margin-right: 9px;
 }
 
 
 .mizdes {
 	width: 940px;
-	height: 600px;
+	height: 595px;
     float: left;
     margin: auto;
     position: relative;
     text-align: center;
+    margin-left: -8px
 }
 
 .button1 {
@@ -116,7 +118,7 @@ hr {
 	color: white;
 	font-size: 20px;
 	cursor: pointer;
-	/*margin-top: -500px;*/
+	/*margin-top: -100px;*/
 }
 
 
@@ -131,12 +133,12 @@ hr {
 }
 
 .top {
-	margin-top: 100px;
+	margin-top: 80px;
 	position: relative;
 }
 
 .top1 {
-	margin-top: -100px;
+	margin-top: 80px;
 	position: relative;
 }
 
@@ -148,6 +150,23 @@ hr {
 	height: 300px;
 }
 
+.ashki3 {
+	text-align: center;
+	color: black;
+	position: relative;
+	margin-top: -500px;
+	height: 300px;
+}
+
+footer {
+	
+	margin-left: -8px;
+	width: 100.5%;
+	background-color: red;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
 
 
 
